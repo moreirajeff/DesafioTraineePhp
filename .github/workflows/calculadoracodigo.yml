@@ -1,6 +1,6 @@
 <html>
  <head>
-  <title>Curso PHP Progressivo</title>
+  <title>Calculadoradesafiotrainee</title>
  </head>
  <body>
    <form   action="home.php" method="get">
